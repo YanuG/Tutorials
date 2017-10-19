@@ -1,1 +1,1 @@
-Tutorials I make to teach members software skills on the robotics team
+Tutorials I made for the my robotics team to teach members new software skills.
